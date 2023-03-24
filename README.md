@@ -1,5 +1,5 @@
 <p>👋 Hi, I’m Andrej</p>
-<p>Currently a second year student, who's studying Informatics and Communications technology at FERI</p>
+<p>Second year Informatics and Communications technology student @ FERI</p>
 <p>C#, Javascript (React, Svelte), Smalltalk</p>
 
 <!---
