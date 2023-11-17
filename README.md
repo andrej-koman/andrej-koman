@@ -1,6 +1,6 @@
 <p>👋 Hi, I’m Andrej</p>
 <p>Second year Informatics and Communications technology student @ FERI</p>
-<p>C#, Javascript (React, Svelte), Smalltalk</p>
+<p>Godot, PHP, C#, Javascript</p>
 
 <!---
 andrej-koman/andrej-koman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
