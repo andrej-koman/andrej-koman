@@ -1,5 +1,5 @@
 <p>👋 Hi, I’m Andrej</p>
-<p>Second year Informatics and Communications technology student @ FERI</p>
+<p>Third year Informatics and Communications technology student @ FERI</p>
 <p>Godot, PHP, C#, Javascript</p>
 
 <!---
