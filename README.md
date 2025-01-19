@@ -1,5 +1,4 @@
 <p>👋 Hi, I’m Andrej</p>
-<p>Third year Informatics and Communications technology student @ FERI</p>
 <p>C#, React</p>
 
 <!---
